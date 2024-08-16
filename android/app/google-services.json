@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96456585612",
+    "firebase_url": "https://water-cee9a-default-rtdb.firebaseio.com",
+    "project_id": "water-cee9a",
+    "storage_bucket": "water-cee9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96456585612:android:acef5bc3c333784cce66a9",
+        "android_client_info": {
+          "package_name": "com.exemple.water"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBBz9-cNcnvv9kHkLEPvcIZiMfUq-Jzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
